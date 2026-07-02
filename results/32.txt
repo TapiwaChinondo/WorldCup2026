@@ -1,0 +1,97 @@
+Predictions for fixtures/round_of_32.csv
+
+South Africa: 22.67%
+Canada: 77.33%
+Predicted Winner: Canada
+Predicted Score: South Africa 0-1 Canada
+Score Probability: 15.10%
+----------------------------------------
+Brazil: 60.16%
+Japan: 39.84%
+Predicted Winner: Brazil
+Predicted Score: Brazil 1-1 Japan
+Score Probability: 12.89%
+----------------------------------------
+Germany: 81.59%
+Paraguay: 18.41%
+Predicted Winner: Germany
+Predicted Score: Germany 2-0 Paraguay
+Score Probability: 10.63%
+----------------------------------------
+Netherlands: 55.57%
+Morocco: 44.43%
+Predicted Winner: Netherlands
+Predicted Score: Netherlands 1-1 Morocco
+Score Probability: 12.63%
+----------------------------------------
+Ivory Coast: 44.74%
+Norway: 55.26%
+Predicted Winner: Norway
+Predicted Score: Ivory Coast 1-1 Norway
+Score Probability: 12.56%
+----------------------------------------
+France: 82.33%
+Sweden: 17.67%
+Predicted Winner: France
+Predicted Score: France 2-0 Sweden
+Score Probability: 9.97%
+----------------------------------------
+Mexico: 64.87%
+Ecuador: 35.13%
+Predicted Winner: Mexico
+Predicted Score: Mexico 1-0 Ecuador
+Score Probability: 15.61%
+----------------------------------------
+England: 90.97%
+DR Congo: 9.03%
+Predicted Winner: England
+Predicted Score: England 1-0 DR Congo
+Score Probability: 18.63%
+----------------------------------------
+Belgium: 63.67%
+Senegal: 36.33%
+Predicted Winner: Belgium
+Predicted Score: Belgium 1-1 Senegal
+Score Probability: 11.22%
+----------------------------------------
+United States: 75.80%
+Bosnia and Herzegovina: 24.20%
+Predicted Winner: United States
+Predicted Score: United States 1-0 Bosnia and Herzegovina
+Score Probability: 12.20%
+----------------------------------------
+Spain: 78.39%
+Austria: 21.61%
+Predicted Winner: Spain
+Predicted Score: Spain 1-0 Austria
+Score Probability: 15.74%
+----------------------------------------
+Portugal: 62.35%
+Croatia: 37.65%
+Predicted Winner: Portugal
+Predicted Score: Portugal 1-0 Croatia
+Score Probability: 13.02%
+----------------------------------------
+Switzerland: 46.95%
+Algeria: 53.05%
+Predicted Winner: Algeria
+Predicted Score: Switzerland 1-1 Algeria
+Score Probability: 10.43%
+----------------------------------------
+Australia: 60.68%
+Egypt: 39.32%
+Predicted Winner: Australia
+Predicted Score: Australia 1-1 Egypt
+Score Probability: 12.73%
+----------------------------------------
+Argentina: 97.20%
+Cape Verde: 2.80%
+Predicted Winner: Argentina
+Predicted Score: Argentina 3-0 Cape Verde
+Score Probability: 15.40%
+----------------------------------------
+Colombia: 84.02%
+Ghana: 15.98%
+Predicted Winner: Colombia
+Predicted Score: Colombia 1-0 Ghana
+Score Probability: 13.16%
